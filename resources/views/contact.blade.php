@@ -1,9 +1,8 @@
 <!DOCTYPE html>
 <html dir="ltr" lang="en-US">
-<?php include('includes/head.php') ?>
+@extends('includes/head')
+@extends('includes/header')
 
-<body class="stretched">
-<?php include('includes/header.php') ?>
 
 <!-- Content
 ============================================= -->
@@ -16,7 +15,7 @@
 				<h1>Contact</h1>
 				<span>Get in Touch with Us</span>
 				<ol class="breadcrumb">
-					<li><a href="#">Home</a></li>
+					<li><a href="/home">Home</a></li>
 					<li class="active">Contact</li>
 				</ol>
 			</div>
@@ -162,10 +161,9 @@
 
 		</section>
 
-<!-- #content end -->
 
-<?php include('includes/footer.php') ?>
+<!-- #content end -->
+@extends('includes/footer')
 
 </div><!-- #wrapper end -->
-
-<?php include('includes/foot.php') ?>
+@extends('includes/foot')

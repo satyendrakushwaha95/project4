@@ -92,7 +92,7 @@
 						data-elementdelay="0.01"
 						data-endelementdelay="0.1"
 						data-endspeed="1000"
-						data-endeasing="Power4.easeIn" style="z-index: 3; white-space: nowrap;"><a href="services.php" class="button button-border button-white button-light button-large button-rounded tright nomargin"><span>Start Tour</span> <i class="icon-angle-right"></i></a></div>
+						data-endeasing="Power4.easeIn" style="z-index: 3; white-space: nowrap;"><a href="/services" class="button button-border button-white button-light button-large button-rounded tright nomargin"><span>Start Tour</span> <i class="icon-angle-right"></i></a></div>
 
 					</li>
 					<li class="dark" data-transition="slideup" data-slotamount="1" data-masterspeed="1000" data-thumb="images/slider/rev/main/s2-thumb.jpg"  data-fstransition="fade" data-fsmasterspeed="1000" data-fsslotamount="7" data-saveperformance="off" data-title="Shed a few Tears">
